@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="activity_title_label">Activity</string>
+    <string name="activity_title_hint">Enter the activity.</string>
+    <string name="activity_place_hint">Enter the location of the activity.</string>
+    <string name="activity_place_label">Location</string>
+    <string name="individual_activity">Individual</string>
+    <string name="group_activity">Group</string>
+    <string name="new_workout">New Workout</string>
+    <string name="start_time">Start Time</string>
+    <string name="finish_time">Finish Time</string>
+</resources>
